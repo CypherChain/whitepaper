@@ -9,3 +9,7 @@ Under PoS, the probability of getting a reward is affected not only by the compu
 The centralization problem is still not effectively solved; this reduces the incentive of the whole system. To increase the incentive of the system and reduce the negative effect of ME, in the following document we propose a new consensus mechanism named proof of engagement (PoE). A blockchain system under PoE is more like a work-based society, where nodes can accumulate their profits by contributing computing power to maintain security and creating high-quality smart contracts to maintain autonomy.&#x20;
 
 In this way, new nodes in the [cypher blockchain](https://cypherchain.org) will be able to gain a voice more easily; the flexibility of the whole system is also increased.
+
+
+
+[Reference and credits here](https://www.hindawi.com/journals/wcmc/2021/6185910/)
