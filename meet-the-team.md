@@ -1,8 +1,10 @@
 # Meet The Team
 
-Meet the bright minds behind the Cypher blockchain.
 
-![](.gitbook/assets/Team.png)
+
+<figure><img src=".gitbook/assets/Meet The Team.png" alt=""><figcaption></figcaption></figure>
+
+Meet the bright minds behind the Cypher blockchain.
 
 ``[`Vinod Kumar- Founder & CTO`](https://linkedin.com/in/answervinod)``
 
