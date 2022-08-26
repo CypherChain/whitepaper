@@ -8,8 +8,6 @@ Meet the bright minds behind the Cypher blockchain.
 
 ``[`Vinod Kumar- Founder & CTO`](https://linkedin.com/in/answervinod)``
 
-``[`Shaurya Srivastava- Chief Operations Officer`](https://www.linkedin.com/in/shauryasrivastava/)``
-
 ``[`Haneef Khan- Chief Marketing Officer`](https://www.linkedin.com/in/mohd-haneef-khan-8a22a926/)``
 
 ``[`Raj A Kapoor- Chief Advisor`](https://www.linkedin.com/in/indieblock/)``
