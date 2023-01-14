@@ -8,6 +8,7 @@
   * [Infrastructure](network-design/infrastructure.md)
   * [Technical framework Design](network-design/technical-framework-design.md)
 * [Proof of Engagement {PoE}](proof-of-engagement-poe/README.md)
+  * [Exploring Proof Of Engagement (PoE)](proof-of-engagement-poe/exploring-proof-of-engagement-poe.md)
   * [Importance of PoE](proof-of-engagement-poe/importance-of-poe.md)
 * [Why PoE?](why-poe.md)
 * [Cypher Chain Ecosystem](cypher-chain-ecosystem.md)
