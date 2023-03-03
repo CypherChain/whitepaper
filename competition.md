@@ -15,6 +15,10 @@ Proof of Engagement Blockchains are rare but there are games on different major 
 ```
 
 ```
+// BNB
+```
+
+```
 // Enjin
 ```
 
@@ -23,11 +27,25 @@ Proof of Engagement Blockchains are rare but there are games on different major 
 ```
 
 ```
-// WAX
+// SOLANA
+```
+
+```
+// CARDANO
+```
+
+```
+// Avalanche
+```
+
+```
+// Algorand
 ```
 
 ```
 // Ethereum
 ```
+
+**Source**: [https://www.binance.com/en/blog/fiat/layer1-blockchain-tokens-everything-you-need-to-know-421499824684903155](https://www.binance.com/en/blog/fiat/layer1-blockchain-tokens-everything-you-need-to-know-421499824684903155)
 {% endtab %}
 {% endtabs %}

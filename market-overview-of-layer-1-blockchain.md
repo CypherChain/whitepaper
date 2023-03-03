@@ -1,0 +1,7 @@
+# Market Overview of Layer 1 Blockchain
+
+Nearly all cryptocurrency tokens fall into one of two categories: Layer 1s and Layer 2s. Layer 1s are tokens with their own blockchains, while Layer 2s are built on top of Layer 1 blockchains, usually through smart contract technology. Layer 2s can be new tokens, or more complex projects known as decentralized apps, or dApps.
+
+Different Layer 1 blockchain are designed and optimized for different goals. Bitcoin is designed to be a currency for simple, trustless transactions with enforced scarcity to preserve its value. However, its relatively simple structure limits what can be built on top of it. Ethereum was the first mainstream blockchain to incorporate smart contracts, and it hosted the first wave of dApps and tokens that ushered in DeFi and web3.
+
+But, while Ethereum has become the most prominent blockchain for Layer 2 project development, its Proof of Work (PoW) mining system and high gas fees have proven an impediment to transaction speed and scalability within its DeFi ecosystem. Many, if not most, of the smart contract-enabled Layer 1 blockchain developed since were created to address those problems. Solana and Algorand, for instance, leverage a Proof of History (PoH) and Proof of Stake (PoS) consensus mechanism respectively, as well as other blockchain construction tactics, to provide lower fees and faster transaction times. Other Layer 1 blockchain, such as Avalanche, is built more for interoperability with other chains.
