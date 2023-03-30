@@ -12,4 +12,4 @@
 >
 > ``[`Medium`](https://medium.com/@cypher\_deploy)``
 >
-> <mark style="color:green;">``</mark>[<mark style="color:green;">`Email Us`</mark>](https://app.gitbook.com/u/8rIxkQURSESOgQKk8Fv9sSLurLD3)<mark style="color:green;">`:`</mark>_<mark style="color:green;">`Support@cypherchain.org`</mark>_
+> <mark style="color:green;">``</mark>[<mark style="color:green;">`Email Us`</mark>](http://localhost:5000/u/8rIxkQURSESOgQKk8Fv9sSLurLD3)<mark style="color:green;">`:`</mark>_<mark style="color:green;">`Support@cypherchain.org`</mark>_
