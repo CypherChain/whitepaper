@@ -26,7 +26,7 @@ P2P-based distributed storage system: This will support the following functions 
 
 
 
-> _**Network Layer**_** ** – Customised content-addressable P2P storage network.
+> _**Network Layer**_ – Customised content-addressable P2P storage network.
 >
 >
 >

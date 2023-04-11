@@ -10,4 +10,3 @@ The [developer community](https://cypherchain.org) around a blockchain count, th
 
 These all sub-groups have a part to play and the Proof of Engagement model to ensure that they are all incentivised to collaborate and take an active role in the blockchain community.
 
-****
