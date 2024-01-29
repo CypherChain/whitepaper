@@ -1,3 +1,5 @@
 # Roadmap
 
-![Cypher Blockchain](.gitbook/assets/Roadmap.png)
+
+
+<figure><img src=".gitbook/assets/Roadmap.png" alt=""><figcaption></figcaption></figure>
